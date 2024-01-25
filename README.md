@@ -29,7 +29,7 @@ Steps:
 - Enter the exact path to your **new appearance** character.
 - Press enter, and reload your game.
 
-### Credit to [xNul](https://github.com/xNul/palworld-host-save-fix) for the base of the code. I would not have been able to do this without you!
+### Credit to [xNul](https://github.com/xNul/palworld-host-save-fix) for the bulk of the code. I would not have been able to do this without you!
 > Credit to [cheahjs](https://gist.github.com/cheahjs/300239464dd84fe6902893b6b9250fd0) for his very useful script helping me to make this fix!
 
 ### Appreciate any help testing and resolving bugs.
